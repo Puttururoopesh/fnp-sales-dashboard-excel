@@ -1,5 +1,6 @@
 # fnp-sales-dashboard-excel
 This project presents a comprehensive sales analysis dashboard built in Microsoft Excel for Ferns N Petals (FNP). It visualizes key business metrics like total revenue, order trends by time, top-selling products, and city-wise performance using charts and slicers.
+##image(https://ik.imagekit.io/3uu4zni2o/Screenshot%202025-07-25%20210921.png?updatedAt=1753459464565)
 # 🌼 FNP Sales Dashboard (Excel Project)
 
 This project is a simple but powerful **Sales Dashboard** created in **Microsoft Excel** for Ferns N Petals (FNP), an online gifting and flower delivery company. It shows key business insights in a visual format.
