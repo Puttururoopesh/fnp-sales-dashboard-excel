@@ -65,5 +65,5 @@ This project is a simple but powerful **Sales Dashboard** created in **Microsoft
 
 ## 📬 Contact
 
-If you liked this project or have suggestions, feel free to connect with me on [LinkedIn](www.linkedin.com/in/puttururoopesh).
+If you liked this project or have suggestions, feel free to connect with me on [LinkedIn] (www.linkedin.com/in/puttururoopesh).
 
