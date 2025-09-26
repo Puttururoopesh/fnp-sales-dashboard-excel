@@ -67,3 +67,10 @@ This project is a simple but powerful **Sales Dashboard** created in **Microsoft
 
 If you liked this project or have suggestions, feel free to connect with me on [LinkedIn] (www.linkedin.com/in/puttururoopesh).
 
+---
+
+# 👨‍💻 Author
+**Putturu Roopesh**  
+_Data Analyst | Excel,Sql,Power BI,Tableau(Dashboard)**_ 
+
+
